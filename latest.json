@@ -1,9 +1,9 @@
 {
-  "as_of": "2026-11-25",
-  "net_liquidity_T": 5.825,
-  "walcl_T": 6.741,
-  "tga_T": 0.917,
+  "as_of": "2026-11-27",
+  "net_liquidity_T": 5.83,
+  "walcl_T": 6.732,
+  "tga_T": 0.902,
   "rrp_T": 0.0,
-  "delta_30d_T": -0.048,
-  "updated_utc": "2026-11-27 03:54 UTC"
+  "delta_30d_T": -0.041,
+  "updated_utc": "2026-11-28 03:41 UTC"
 }
